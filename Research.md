@@ -1,8 +1,12 @@
 #Antriksh Agarwal
 
-[Automated Attendance Monitoring](https://github.com/evamy/attendance)
+####Current Research
 
 [Classification of Language from text](https://github.com/evamy/ClassifyLanguage)
+
+####Major Projects
+
+[Automated Attendance Monitoring](https://github.com/evamy/attendance)
 
 [Significant Locations Extractor and Recommender](https://github.com/MLDaily/HyperDrive)
 

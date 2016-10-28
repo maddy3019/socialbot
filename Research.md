@@ -1,7 +1,11 @@
 #Antriksh Agarwal
+
 [Automated Attendance Monitoring](https://github.com/evamy/attendance)
+
 [Classification of Language from text](https://github.com/evamy/ClassifyLanguage)
+
 [Significant Locations Extractor and Recommender](https://github.com/MLDaily/HyperDrive)
+
 [A comparative study of linear learning methods in click-through rate prediction](http://ieeexplore.ieee.org/abstract/document/7489611/)
 
 #Gunjan Tomer

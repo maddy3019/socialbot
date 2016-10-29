@@ -33,6 +33,18 @@ Designed an algorithm for traffic monitoring and movement prediction using Kalma
 
 #Madhura Dole
 
+###Major Projects
+
+####Automation Framework
+Developed an Automation Framework in Java for Website testing using Selenium. The framework captures actions performed on website, compares the end results with those stored in database and logs the test results in user friendly GUI and web format.
+
+####Website Development
+Developed a Website for Hotel Management System using JSP, Servlets, HTML, CSS and JavaScript. Led a team of 5 employees for implementation of Feedback module of the Website.
+
+####Client Project
+Team member of a client based project during my work experience in multinational organization named Tata Consultancy Services.
+Developed a language interpreter in C# for interpretation of ISO specified OTX files. Worked as technical lead of one of the four modules of the project.
+
 #Abhishek Jagwani
  
 ###Major Projects

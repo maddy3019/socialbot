@@ -34,6 +34,16 @@ Designed an algorithm for traffic monitoring and movement prediction using Kalma
 #Madhura Dole
 
 #Abhishek Jagwani
+ 
+###Major Projects
+
+####Data Retrieval of Atmospheric Parameters
+
+Developed an algorithm for the study of Atmospheric Water Vapor and other parameters retrieved from satellites across the globe which outputs the results in a user friendly manner. Functioned whole MATLAB along with its codes through JAVA in a way that no instance of MATLAB was displayed on the screen.
+
+####Gimbal Functioning
+
+A Danish project that consisted interaction between the base station (Micro raptor HD, Nano DDL) and Gimbal (Drone) to perform multimedia activites. Programmed Controller to operate the Drone to perform live video streaming and recording through GUI by transmission of signals from the base station via antenna.
 
 #Dhruv Sangvikar
 

@@ -16,6 +16,10 @@
 
 #Saumya Dixit
 
+####Past Research
+
+[Automated test data generation using computational intelligence](http://ieeexplore.ieee.org/document/7359319/)
+
 #Madhura Dole
 
 #Abhishek Jagwani

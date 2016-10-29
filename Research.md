@@ -14,7 +14,7 @@
 
 #Gunjan Tomer
 
-####Major Projects
+###Major Projects
 
 ####Three Dimensional Scanner using Computer Vision
 

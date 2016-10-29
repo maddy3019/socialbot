@@ -16,12 +16,12 @@
 
 ####Major Projects
 
-######Three Dimensional Scanner using Computer Vision
+####Three Dimensional Scanner using Computer Vision
 
 Designed a three-dimensional scanning device using image processing algorithms to resolve shadows, create
 watertight mesh and create a point cloud using the ICP algorithm.
 
-######Traffic Monitoring Project
+####Traffic Monitoring Project
 
 Designed an algorithm for traffic monitoring and movement prediction using Kalman filter. 
 

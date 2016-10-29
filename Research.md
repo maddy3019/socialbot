@@ -14,6 +14,14 @@
 
 #Gunjan Tomer
 
+####Major Projects
+
+Three Dimensional Scanner using Computer Vision
+
+Designed a three-dimensional scanning device using image processing algorithms to resolve shadows, create
+
+watertight mesh and create a point cloud using the ICP algorithm.
+
 #Saumya Dixit
 
 ####Considerable Research
